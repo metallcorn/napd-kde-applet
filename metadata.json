@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-NotificationAreaCategory": "Hardware",
+    "KPlugin": {
+        "Id": "ai.palabra.napd",
+        "Name": "napd",
+        "Description": "What's draining the battery, and who napd is putting to sleep",
+        "Icon": "speedometer",
+        "Category": "System Information",
+        "License": "MIT",
+        "Version": "0.1.0",
+        "Authors": [
+            { "Name": "metallcorn" }
+        ]
+    }
+}
